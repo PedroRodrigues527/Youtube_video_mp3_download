@@ -1,0 +1,2 @@
+If you open for the first time, run first_run.bat to install python modules, if it isn´t install the script can not execute!
+If you have ran 'pip install youtube_dl' or have installed on your computer you can delete the 'first_run.bat' file.
